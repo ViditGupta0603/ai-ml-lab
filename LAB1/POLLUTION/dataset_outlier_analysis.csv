@@ -1,0 +1,5 @@
+Column,Outlier_Count,Percentage,Lower_Bound,Upper_Bound,Min_Value,Max_Value
+longitude,185,5.56%,68.13701500000002,88.15636699999999,70.909168,94.636574
+pollutant_min,161,4.84%,-51.0,101.0,1.0,260.0
+pollutant_max,287,8.62%,-143.375,289.625,1.0,500.0
+pollutant_avg,217,6.52%,-90.5,185.5,1.0,439.0
